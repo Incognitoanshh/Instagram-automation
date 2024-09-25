@@ -1,0 +1,6 @@
+*.log
+*.yml
+*.pyc
+.venv/
+*.jpg
+.idea/
